@@ -1,0 +1,16 @@
+.Search-Box{
+    width: 50%;
+    height: 35px;
+    font-size: 20px;
+    padding: 0 10px;
+}
+.Search-Icon{
+    padding: 15px;
+    background-color: lightblue;
+    top: -1px;
+    margin-top: 6px;
+    left: -1px;
+    position: relative;
+    border: 1px solid #ababaa;
+    cursor: pointer;
+}

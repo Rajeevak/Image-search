@@ -1,0 +1,16 @@
+.ImageBox{
+    max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;
+    padding: 0;
+    margin:5px;
+    text-align: left;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.img-item{
+    width: auto;
+    height: 200px;
+}
